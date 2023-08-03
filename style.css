@@ -113,6 +113,24 @@ body {
     width: 80%;
 }
 
+.title-reveal {
+    text-align: center;
+}
+
+.h2 {
+    text-align: center;
+    width: 193px;
+    height: 40px;
+    top: 605px;
+    left: 713px;
+    font-family: Inter;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 40px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
 .services .card .service-icon {
     color: crimson;
     font-size: 120px;
