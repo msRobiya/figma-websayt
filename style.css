@@ -151,3 +151,242 @@ body {
     font-weight: 700px;
     margin: 10px;
 }
+
+
+/*  */
+
+.services .card .service-icons {
+    color: yellow;
+    width: 24.89px;
+    height: 24px;
+    top: 1732px;
+    left: 368px;
+}
+
+.services .card .service-iconss {
+    color: #000;
+    width: 24.89px;
+    height: 24px;
+    top: 1812px;
+    left: 368px;
+}
+
+.services .card .service-icon:hover {
+    transform: translateY(-10px);
+}
+
+.services .card .info {
+    text-align: center;
+}
+
+.services .card .info h3 {
+    color: crimson;
+    font-weight: 700px;
+    margin: 10px;
+}
+
+.pe {
+    width: 74px;
+    height: 24px;
+    top: 1732px;
+    left: 408px;
+    font-family: Inter;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    display: inline-block;
+    color: #000;
+}
+
+.pe2 {
+    width: 140px;
+    height: 24px;
+    top: 1773px;
+    left: 408px;
+    font-family: Inter;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #000;
+}
+
+.pa {
+    width: 96px;
+    height: 24px;
+    top: 1812px;
+    left: 408px;
+    font-family: Inter;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    display: inline-block;
+    color: #767676;
+}
+
+.pa2 {
+    width: 131px;
+    height: 24px;
+    top: 1852px;
+    left: 408px;
+    font-family: Inter;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #767676;
+}
+
+.pa3 {
+    width: 170px;
+    height: 24px;
+    top: 1892px;
+    left: 408px;
+    font-family: Inter;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #767676;
+}
+
+.pa4 {
+    width: 85px;
+    height: 24px;
+    top: 1932px;
+    left: 408px;
+    font-family: Inter;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #767676;
+}
+
+.pa5 {
+    width: 113px;
+    height: 24px;
+    top: 1972px;
+    left: 408px;
+    font-family: Inter;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #767676;
+}
+
+.pa6 {
+    width: 123px;
+    height: 24px;
+    top: 2013px;
+    left: 412px;
+    font-family: Inter;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #767676;
+}
+
+.ota {
+    display: grid;
+    grid-template-columns: 40% 40%;
+    grid-gap: 15px;
+}
+
+.bola {
+    background-color: rgb(253, 253, 253);
+}
+
+.infos {
+    text-align: center;
+}
+
+.infos h3 {
+    width: 66px;
+    height: 30px;
+    top: 1566px;
+    left: 457px;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+.infos h2 {
+    width: 95px;
+    height: 40px;
+    top: 1615px;
+    left: 417px;
+    font-family: Inter;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 40px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+.q {
+    width: 40px;
+    height: 24px;
+    top: 1630px;
+    left: 522px;
+    font-family: Inter;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+.infos p {
+    width: 248px;
+    height: 48px;
+    top: 1663px;
+    left: 366px;
+    font-family: Inter;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: center;
+}
+
+.buttons {
+    width: 169px;
+    height: 38px;
+    top: 2058px;
+    left: 405px;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 30px;
+    box-shadow: 0px 1px 10px 0px #00000026;
+    background: #FFFFFF;
+}
+
+.a {
+    width: 87px;
+    height: 17px;
+    top: 11px;
+    left: 41px;
+    font-family: Inter;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 17px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #2B2B2B;
+}
